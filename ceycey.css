@@ -1,0 +1,78 @@
+img#logo{
+	margin-top: 200px;
+	width: 400px;
+}
+
+input.yazialani{
+	width: 800px;
+	height: 30px;
+	padding-left: 20px;
+	font-size: 15px 
+}
+	button.button{
+		padding: 5px;
+		background-color:lightgrey;
+		font-weight: bold;
+		border-radius: 8px;
+	
+		
+	}
+	.copyright{
+	margin-top:111px ;
+	height: 30px;
+	background-color:#dddddd;
+	padding-top :10px;
+	padding-left: 10px;
+}
+.selamunaleykum
+{
+	margin-left:400px; 
+}
+
+img#img1
+{
+	width:200px;
+	height:50px;
+}
+img#img2
+{
+	width:200px;
+	height:50px;
+}
+img#img3
+{
+	width:200px;
+	height:50px;
+}
+img#img4
+{
+	width:200px;
+	height:50px;
+}
+body {
+margin:0;
+} 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
